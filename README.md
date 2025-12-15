@@ -1,5 +1,5 @@
-# Basic_Assessment_Korean_Renewables
-This Project Repository is for assessing basic climate and current reneable energy generation on regions in Republic of Korea using Python and Tableau.
+# Incheon_Renewable_Energy_Map
+This Project Repository is for assessing basic climate and current reneable energy generation in Incheon, Republic of Korea using Python and Tableau.
 
 Dataset used:
 
