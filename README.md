@@ -1,6 +1,8 @@
 # Incheon_Renewable_Energy_Map
 This Project Repository is for assessing basic climate and current reneable energy generation in Incheon, Republic of Korea using Python and Tableau.
 
+Py_Renewable, 인하대학교 에너지자원환경연구실, Choi Chan Woo
+
 Dataset used:
 
 https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36 : 기상청 ASOS 기후 데이터
