@@ -1,2 +1,6 @@
 Dataset/netcdf4_korea_total.nc filter=lfs diff=lfs merge=lfs -text
+Dataset/netcdf4_korea_10m_wind.nc filter=lfs diff=lfs merge=lfs -text
+Dataset/netcdf4_korea_100m_wind.nc filter=lfs diff=lfs merge=lfs -text
+Dataset/10m/u10.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/10m/v10.csv filter=lfs diff=lfs merge=lfs -text
 Dataset/100m/*.csv filter=lfs diff=lfs merge=lfs -text
