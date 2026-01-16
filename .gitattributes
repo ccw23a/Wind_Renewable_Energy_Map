@@ -8,4 +8,6 @@ Dataset/10m/v10.csv filter=lfs diff=lfs merge=lfs -text
 /Dataset/ocean_grid_points_0p25deg.csv filter=lfs diff=lfs merge=lfs -text
 /Dataset/100m/u100.csv filter=lfs diff=lfs merge=lfs -text
 /Dataset/100m/v100.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/100m/u100.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/100m/v100.csv filter=lfs diff=lfs merge=lfs -text
 Dataset/100m/*.csv filter=lfs diff=lfs merge=lfs -text
